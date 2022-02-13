@@ -1,0 +1,42 @@
+{
+    "language": {
+        "fr": {
+            "#nombreTotalDesEncadreursInscrit":"Nombre total des encadreurs inscrit",
+            "#nombreDesEncadreursQuiOntProposéDesSujets":"Nombre des encadreurs qui ont proposé des sujets ",
+            "#nom":"Nom",         
+            "#Prénom":"Prénom",
+            "#email":"Email",
+            "#Pseudo":"Pseudo:",
+            "#grade":"Grade",
+            "#ThemeLicence":"Theme License",
+            "#themeMaster":"Theme Master"                 
+          
+            
+            
+        },
+        "en": {     
+            "#nombreTotalDesEncadreursInscrit":"Total number of supervisors registered",
+            "#nombreDesEncadreursQuiOntProposéDesSujets":"Number of supervisors who proposed topics ",
+            "#nom":"name",         
+            "#Prénom":"surname",
+            "#email":"E-mail",
+            "#Pseudo":"Pseudo:",
+            "#grade":"Grade",
+            "#ThemeLicence":"Theme License",
+            "#themeMaster":"Theme Master"
+            
+        },
+        "ar": {
+            "#nombreTotalDesEncadreursInscrit":"إجمالي عدد المشرفين المسجلين",
+            "#nombreDesEncadreursQuiOntProposéDesSujets":"عدد المشرفين الذين اقترحوا موضوعات ",
+            "#nom":"    اللقب",         
+            "#Prénom":"الاسم",
+            "#email":"البريد الإلكتروني",
+            "#Pseudo":"Pseudo:",
+            "#grade":"  الدرجة",
+            "#ThemeLicence":"Theme License",
+            "#themeMaster":"Theme Master"
+            
+        }
+    }
+}

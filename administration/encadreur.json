@@ -1,0 +1,50 @@
+{
+    "language": {
+        "en": {
+            "#nom ":"Name",
+            "#prénom":"First name",
+            "#email":"Email ",
+            "#numéro":"Number",
+            "#grade":"Grade",
+            "#domaines":"Domaines",
+            "#EnvoyerUnMessage":"send a message",
+                  
+            "#objet1":"Objet ",
+            "#message":"Message ",
+            "#envoyer":"send"
+            
+        },
+        "fr": {     
+            "#nom ":"Nom ",
+            "#prénom":"Prénom",
+            "#email":"Email ",
+            "#numéro":"Numéro",
+            "#grade":"Grade",
+            "#domaines":"Domaines",
+            "#EnvoyerUnMessage":"Envoyer un message",
+                 
+            "#objet1":"Objet ",
+            "#message":"Message ",
+            "#envoyer":"Envoyez"
+                          
+          
+        
+           
+            
+        },
+        "ar": {
+            "#nom ":"اللقب ",
+            "#prénom":"الاسم",
+            "#email":"البريد الإلكتروني  ",
+            "#numéro":"Numéro",
+            "#grade":"الدرجة",
+            "#domaines":"Domaines",
+            "#EnvoyerUnMessage":"Envoyer un message",
+                  
+            "#objet1":"Objet ",
+            "#message":"Message ",
+            "#envoyer":"Envoyez"
+            
+        }
+    }
+}

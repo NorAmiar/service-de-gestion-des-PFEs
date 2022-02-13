@@ -1,0 +1,35 @@
+{
+    "language": {
+        "en": {
+            "#listeDesChoixS":"Choice List",   
+            "#pseudoS":"Pseudo",
+            "#sujetS":"Subject",
+            "#prioritéS":"Priority",     
+            "#dateDeChoixS":"Date of choice",
+            "#moyenneDetudiantS":"Average student (s)",
+            "#action":"Action" 
+  
+        },
+        "fr": {     
+            "#listeDesChoixS":"Liste Des Choix",   
+            "#pseudoS":"Pseudo",
+            "#sujetS":"Sujet",
+            "#prioritéS":"Priorité",     
+            "#dateDeChoixS":"Date de choix",
+            "#moyenneDetudiantS":"Moyenne d'etudiant(s)",
+            "#action":"Action" 
+           
+            
+        },
+        "ar": {
+            "#listeDesChoixS":"قائمة الاختيار",   
+            "#pseudoS":"اسم مستعار",
+            "#sujetS":" الموضوع",
+             "#prioritéS":"الأفضلية",     
+            "#dateDeChoixS":"تاريخ الاختيار",
+            "#moyenneDetudiantS":"معدل ​​الطالب",
+            "#action":"Action" 
+           
+        }
+    }
+}

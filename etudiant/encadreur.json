@@ -1,0 +1,63 @@
+{
+    "language": {
+        "en": {
+            "#nom":"Name",
+            "#prenom":"First name",
+            "#email":"Email",
+            "#numero":"Number",
+            "#grade":"Grade",
+            "#domaines":"areas",
+            "#DemanderUnRendezVous":"Request an appointment",         
+            "#EnvoyerUnMessage":"Send a message",
+            "#EnvoyerUnMessageE":"Send a Message",
+            "#Objet":"Object",
+            "#message":"Message",         
+            "#envoyez":"send",
+            "#DemanderUnRendezVousE":"Request an appointment",
+            "#date":"Date",         
+            "#heure":"Hour",
+            "#lieu":"Location",
+            "#demander":"Request"       
+       
+        },
+        "fr": {     
+            "#nom":"Nom",
+            "#prenom":"Prénom",
+            "#email":"Email",
+            "#numero":"Numéro",
+            "#grade":"Grade",
+            "#domaines":"Domaines",
+            "#DemanderUnRendezVous":"Demander un Rendez Vous",         
+            "#EnvoyerUnMessage":"Envoyer un message",
+            "#EnvoyerUnMessageE":"Envoyer Un Message",
+            "#Objet":"Objet",
+            "#message":"Message",         
+            "#envoyez":"Envoyez",
+            "#DemanderUnRendezVousE":"Demander Un Rendez Vous",
+            "#date":"Date",         
+           "#heure":"Heure",
+           "#lieu":"Lieu",
+           "#demander":"Demander"   
+        },
+        "ar": {
+            "#nom":"Nom",
+            "#prenom":"الاسم",
+            "#email":"البريد الإلكتروني",
+            "#numero":"رقم",
+            "#grade":"درجة",
+            "#domaines":"Domaines",
+            "#DemanderUnRendezVous":"طلب موعد",         
+            "#EnvoyerUnMessage":"بعث رسالة",
+            "#EnvoyerUnMessageE":"بعث رسالة",
+            "#Objet":"الموضوع",
+             "#message":"رسالة",         
+            "#envoyez":"إرسال",
+            "#DemanderUnRendezVousE":"طلب موعد",
+            "#date":"التاريخ",         
+           "#heure":"الساعة",
+           "#lieu":"المكان",
+           "#demander":"طلب"   
+            
+        }
+    }
+}

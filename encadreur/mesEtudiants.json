@@ -1,0 +1,29 @@
+{
+    "language": {
+        "en": {
+            "#listeDesMesEtudiantsME":"List Of My Students",   
+            "#idME":"ID",
+            "#PseudoME":"Pseudo",
+             "#sujetME":"Subject",     
+            "#tauxAvancementME":"Rates of progress"
+          
+        },
+        "fr": {     
+              "#listeDesMesEtudiantsME":"Liste De Mes Etudiants",   
+            "#idME":"ID",
+            "#PseudoME":"Pseudo",
+             "#sujetME":"Sujet",     
+            "#tauxAvancementME":"Taux d'avancement"
+           
+            
+        },
+        "ar": {
+             "#listeDesMesEtudiantsME":"قائمة طلابي",   
+            "#idME":"ID",
+            "#PseudoME":"اسم مستعار",
+             "#sujetME":"الموضوع",     
+            "#tauxAvancementME":"معدلات التقدم"
+           
+        }
+    }
+}

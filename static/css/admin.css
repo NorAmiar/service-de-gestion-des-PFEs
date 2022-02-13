@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Glyphicons Halflings';
+  
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), 
+    url('../fonts/glyphicons-halflings-regular.woff') format('woff'), 
+    url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), 
+    url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  }
+
+
+ /* #8FF01F  */
+  
+/* general */
+body {
+  background-color: 
+  #f6f7f8 !important;
+ 
+  color:#686573;
+}
+
+
+/* navbar */  
+.navbar-inverse {
+  /*background-color:#001e38 !important;*/
+  background-color: #000040 !important;
+  border:0 !important;
+  border-radius: 0 !important;
+}
+.navbar-inverse a {
+  color: white !important;
+}
+
+
+/* Tables  */
+.table-responsive label{
+ color: #000040 !important;
+}
+.table-responsive select{
+  background-color: white !important;
+  color: #000040 !important;
+ }
+ .table-responsive tr,td{
+  background-color:#E8DFB4;
+
+  color: #000040 !important;
+  
+ }
+ .table-responsive th,td{
+  border-bottom:1px solid #000040 !important;
+ }
+ #example_info{
+  color: #000040 !important;
+ }
+ #example_previous{
+  color: #000040 !important;
+ }
+ #example_next{
+  color: #000040 !important;
+ }
+.w3-card-4 .glyphicon {
+  font-size:200%;
+}
+ /*   Cartes de menu */
+  .w3-card-4{
+    height: 130px;
+    padding-top:25%;
+    padding-bottom:25%;
+    padding-right: 2% ;
+    padding-left: 2%;
+   /* background-color:#002a4f;*/
+   font-size: 90%;
+}
+.navbar-nav .open .dropdown-menu {
+  background-color:#000040;
+}
+.navbar li a:hover {
+  background-color: #E8DFB4 !important;
+  color: black !important;
+}
+.card1{
+ background-color: #1E3D59 !important;
+}
+.card2{
+ background-color: #DC2166 !important;
+}
+.card3{
+ background-color: #167533;
+}
+.card4{
+ background-color:#3abfc8 
+}
+.card5{
+ background-color: #FF7F26; ;
+}
+.card6{
+ background-color: #2E2E2E;
+}
+    .w3-card-4:hover{
+        cursor: pointer;
+        transform: scale(0.9, 0.9);
+box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+-5px -5px 30px 15px rgba(0,0,0,0.22);
+
+   
+
+    }
+
+    .w3-card-4 b{
+      color: white;
+      text-decoration:none;
+    }
+    
+  
+
+.btn {
+  color:white; background-color:#3C4D61 !important;
+}
+.btn:hover {
+  color:white !important; background-color:#000040 !important;
+}
+.nav-tabs li a {
+  color: #000040 !important;
+}
+#list {
+  box-shadow: 1px 3px #888888;
+  background-color: #E8DFB4 ;
+  padding: 5% 5% 5% 5%;
+  list-style: none;
+
+}
+#list li a {
+  text-decoration: none;
+  color: black;
+}

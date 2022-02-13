@@ -1,0 +1,77 @@
+{
+    "language": {
+        "En": {
+            "#moyenneDeCompteEN":"Account Average",     
+            "#typeDeCompteEN":"Type of account",
+            "#niveauEN":"Level",
+             "#sujetEN":"Subject",      
+            "#envoyerUnMessageEN":"Send a message",
+            "#demanderUnRDVEN":"Request an appointment",
+            "#demanderUnRDVEN1":"Request an appointment", 
+            "#informationsSurLesEtuidiantsEN":"Student Information",    
+            "#nomEN":"name",
+            "#prenomEN":"surname",
+            "#emailEN":"E-mail",     
+            "#moyenneEN":"Average",
+            "#envoyerUnMessageEN2":"Send a message",
+            "#objetEN":"Object",
+             "#messageEN":"Message ",     
+            "#envoyerEN":"Send",
+            "#demanderUnRDVEN2":"Request an appointment",
+            "#dateEN":"Dated",
+            "#heureEN":"Hour",     
+            "#lieuEN":"Location",
+            "#demanderEN":"Request"
+   
+        },
+        "fr": {     
+           "#moyenneDeCompteEN":"Moyenne de Compte",     
+            "#typeDeCompteEN":"Type de compte",
+            "#niveauEN":"Niveau",
+             "#sujetEN":"Sujet",      
+            "#envoyerUnMessageEN":"Envoyer un message",
+            "#demanderUnRDVEN":"Demander un RDV",
+            "#demanderUnRDVEN1":"Demander un RDV", 
+            "#informationsSurLesEtuidiantsEN":"Information sur les etudiants",     
+            "#nomEN":"Nom",
+            "#prenomEN":"Prénom",
+            "#emailEN":"Email",     
+            "#moyenneEN":"Moyenne",
+            "#envoyerUnMessageEN1":"Envoyer Un Message",
+            "#objetEN":"Objet",
+             "#messageEN":"Message ",     
+            "#envoyerEN":"Envoyez",
+            "#demanderUnRDVEN2":"Demandez Un Rendez-Vous",
+            "#dateEN":"Date",
+            "#heureEN":"Heure",     
+            "#lieuEN":"Lieu",
+            "#demanderEN":"Demander"
+           
+            
+        },
+        "ar": {
+           "#moyenneDeCompteEN":"معدل الحساب ",     
+            "#typeDeCompteEN":"نوع الحساب",
+            "#niveauEN":" المستوى",
+             "#sujetEN":" الموضوع ",      
+            "#envoyerUnMessageEN":"بعث رسالة",
+            "#demanderUnRDVEN":"طلب موعد",
+            "#demanderUnRDVEN1":"طلب موعد", 
+            "#informationsSurLesEtuidiantsEN":"بيانات الطالب",     
+            "#nomEN":" اللقب",
+            "#prenomEN":"الاسم ",
+            "#emailEN":"البريد الإلكتروني",     
+            "#moyenneEN":"المعدل",
+            "#envoyerUnMessageEN1":"بعث رسالة",
+            "#objetEN":"Objet",
+             "#messageEN":"رسالة ",     
+            "#envoyerEN":"إرسال",
+            "#demanderUnRDVEN2":"طلب موعد",
+            "#dateEN":"التاريخ ",
+            "#heureEN":" الساعة",     
+            "#lieuEN":" الموقع ",
+            "#demanderEN":"طلب"
+           
+        }
+    }
+}

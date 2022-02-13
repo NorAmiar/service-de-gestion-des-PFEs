@@ -1,0 +1,33 @@
+{
+    "language": {
+        "en": {
+            "#listeDesThemes":"List Of Themes :",
+            "#idt":"ID",
+            "#titret":"Title",
+            "#encadreurt":"Supervisor",
+            "#nombreDeSelectiont":"Number of selection",
+            "#actiont":"Action"  
+            
+            
+            
+        },
+        "fr": {     
+             "#listeDesThemes":"Liste Des Themes :",
+            "#idt":"ID",
+            "#titret":"Titre",
+            "#encadreurt":"Encadreur",
+            "#nombreDeSelectiont":"Nombre de selection",
+            "#actiont":"Action"
+            
+        },
+        "ar": {
+            "#listeDesThemes":"قائمة المواضيع",
+            "#idt":"ID",
+            "#titret":"العنوان ",
+            "#encadreurt":"مشرف",
+            "#nombreDeSelectiont":"عدد الاختيار",
+            "#actiont":"عمل"  
+            
+        }
+    }
+}

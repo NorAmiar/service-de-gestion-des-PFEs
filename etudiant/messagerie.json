@@ -1,0 +1,68 @@
+{
+    "language": {
+        "en": {
+            "#messegerieM":"Messaging",
+            "#envoyerUnMessageM":"Send a message",
+            "#idM":"ID",
+            "#expiditeurM":"Sender",
+            "#recepteurM":"Receiver",
+            "#dateM":"Dated",
+            "#objetM":"Object",
+            "#EtatM":"State",         
+            "#dateDeVueM":"View Date",
+            "#actionM":"Action",
+             "#envoyerUnMessageM1":"Send a message",         
+            "#roleDeRecepteurM":"Receiver role",
+            "#encadreurM":"Encadreur",
+            "#etudiantM":"Student",
+            "#recepteurMM":"Receiver",
+             "#objetM1":"Object",         
+            "#messageMM":"Message",
+            "#EnvoyezM":"Send"
+           
+            
+            
+        },
+        "fr": {  
+             "#messegerieM":"Messagerie",   
+             "#envoyerUnMessageM":"Envoyer un message",
+            "#idM":"ID",
+            "#expiditeurM":"Expiditeur",
+            "#recepteurM":"Recepteur",
+            "#dateM":"Date",
+            "#objetM":"Objet",
+            "#EtatM":"Etat",         
+            "#dateDeVueM":"Date de Vue",
+            "#actionM":"Action",
+             "#envoyerUnMessageM1":"Envoyer Un Message",         
+            "#roleDeRecepteurM":"Role de recepteur",
+            "#encadreurM":"Encadreur",
+            "#etudiantM":"Etudiant",
+            "#recepteurMM":"Recepteur",
+             "#objetM1":"Objet",         
+            "#messageMM":"Message",
+            "#EnvoyezM":"Envoyez"
+        },
+        "ar": {
+            "#messegerieM":"المراسلة",
+            "#envoyerUnMessageM":"بعث رسالة",
+            "#idM":"ID",
+            "#expiditeurM":" المرسل",
+            "#recepteurM":"المتلقي",
+            "#dateM":"التاريخ",
+            "#objetM":"الموضوع",
+            "#EtatM":"  الحالة",         
+            "#dateDeVueM":"تاريخ العرض",
+            "#actionM":"عمل",
+             "#envoyerUnMessageM1":"بعث رسالة",         
+            "#roleDeRecepteurM":"دور المتلقي",
+            "#encadreurM":"مشرف",
+            "#etudiantM":"طالب ",
+            "#recepteurMM":"المتلقي",
+             "#objetM1":"الموضوع",         
+            "#messageMM":"الرسالة",
+            "#EnvoyezM":"إرسال"
+            
+        }
+    }
+}

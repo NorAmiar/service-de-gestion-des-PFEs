@@ -1,0 +1,51 @@
+{
+    "language": {
+        "en": {
+            "#contacterLadministrationC":"Contact the administration",
+            "#contacterAutresC":"Contact other",
+            "#objetC":"Object",
+            "#messageC":"Message",
+            "#EnvoyerC":"send",
+            "#roleDeRecepteurC":"Receiver role",
+            "#encadreurC":"Framer",         
+            "#etudiantC":"Etudiant",
+            "#recepteurCC":"Receiver",
+            "#objetCC":"Object",
+             "#messageCC":"Message",         
+            "#envoyerCC":"send"
+           
+           
+            
+            
+        },
+        "fr": {     
+             "#contacterLadministrationC":"Contacter l'administration",
+            "#contacterAutresC":"Contacter autre",
+            "#objetC":"Objet",
+            "#messageC":"Message",
+            "#EnvoyerC":"Envoyer",
+            "#roleDeRecepteurC":"Role de recepteur",
+            "#encadreurC":"Encadreur",         
+            "#etudiantC":"Etudiant",
+            "#recepteurCC":"Recepteur",
+            "#objetCC":"Objet",
+             "#messageCC":"Message",         
+            "#envoyerCC":"Envoyez"
+        },
+        "ar": {
+            "#contacterLadministrationC":"اتصل بالإدارة",
+            "#contacterAutresC":" تواصل  آخر",
+            "#objetC":" الموضوع",
+            "#messageC":"رسالة",
+            "#EnvoyerC":" ارسال",
+            "#roleDeRecepteurC":"دور المتلقي",
+            "#encadreurC":"مشرف",         
+            "#etudiantC":"الطالب",
+            "#recepteurCC":"المتلقي",
+            "#objetCC":" الموضوع",
+             "#messageCC":"رسالة",         
+            "#envoyerCC":" ارسال"
+            
+        }
+    }
+}

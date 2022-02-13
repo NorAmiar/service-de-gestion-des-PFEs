@@ -1,0 +1,82 @@
+{
+    "language": {
+        "en": {
+            "#moyenneDeCompteE":"Account Average ",
+            "#typeDeCompteE":"Type of account",
+            "#niveauDeCompteE":"Level ",
+            "#sujetE":"Subject",
+            "#modifierProfileE":"Edit profile",
+            "#envoyerUnMessageE":"Send a message",
+            "#demanderUnRDVE1":"Request an appointment",         
+            "#demanderUnRDVE2":"Request an appointment",
+            "#informationSurLesEtudiants":"Student Information",
+            "#nom":" Nom",
+             "#prenom":"First name",         
+            "#email":"Email",
+              "#moyenne":"Moyenne",
+            "#envoyeyUnMessageE":"Send a Message",
+             "#objetE":"Objet",         
+            "#messageE":"Message",
+             "#envoyerE":"Envoyez",         
+            "#DemanderUnRDVEE":"Demandez Un Rendez-Vous",
+            "#dateE":"Date",         
+            "#heureE":"Hour",
+             "#lieuE":"Locaion", 
+             "#demanderE":"Demander"
+            
+           
+           
+            
+            
+        },
+        "fr": {     
+            "#moyenneDeCompteE":"Moyenne de Compte ",
+            "#typeDeCompteE":"Type de compte",
+            "#niveauDeCompteE":"Niveau ",
+            "#sujetE":"Sujet",
+            "#modifierProfileE":"Modifier profile",
+            "#envoyerUnMessageE":"Envoyer un message",
+            "#demanderUnRDVE1":"Demander un RDV",         
+            "#demanderUnRDVE2":"Demander un RDV",
+            "#informationSurLesEtudiants":"Information sur les etudiants",
+            "#nom":" Nom",
+            "#prenom":"Prénom",         
+           "#email":"Email",
+             "#moyenne":"Moyenne",
+           "#envoyeyUnMessageE":"Envoyer Un Message",
+            "#objetE":"Objet",         
+           "#messageE":"Message",
+            "#envoyerE":"Envoyez",         
+           "#DemanderUnRDVEE":"Demandez Un Rendez-Vous",
+           "#dateE":"Date",         
+           "#heureE":"Heure",
+            "#lieuE":"Lieu", 
+            "#demanderE":"Demander"
+        },
+        "ar": {
+            "#moyenneDeCompteE":"معدل ​​الحساب ",
+            "#typeDeCompteE":"نوع الحساب",
+            "#niveauDeCompteE":"​​المستوى ",
+            "#sujetE":"الموضوع",
+            "#modifierProfileE":"تعديل الملف الشخصي",
+            "#envoyerUnMessageE":"بعث رسالة",
+            "#demanderUnRDVE1":"طلب موعد",         
+            "#demanderUnRDVE2":"طلب موعد",
+            "#informationSurLesEtudiants":"بيانات الطالب",
+            "#nom":" Nom",
+            "#prenom":"Prénom",         
+           "#email":"Email",
+             "#moyenne":"Moyenne",
+           "#envoyeyUnMessageE":"Envoyer Un Message",
+            "#objetE":"Objet",         
+           "#messageE":"Message",
+            "#envoyerE":"Envoyez",         
+           "#DemanderUnRDVEE":"Demandez Un Rendez-Vous",
+           "#dateE":"Date",         
+           "#heureE":"Heure",
+            "#lieuE":"Lieu", 
+            "#demanderE":"Demander"
+            
+        }
+    }
+}

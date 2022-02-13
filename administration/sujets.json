@@ -1,0 +1,47 @@
+{
+    "language": {
+        "en": {
+            "#nombreTotalDesSujets":"Total number of subjects",
+            "#nombreDesSujetsValidé":"Number of subjects validated",
+            "#nombretotaldessujets":"Total number of subjects",
+            "#tauxDavancementTotal":"Total advancement rate",
+            "#niveau":" Level", 
+            "#titre":"Title",
+            "#encadreur":"Framer",         
+            "#etat":"State ",
+            "#Etudiant":"Student (s)",
+            "#nombreDeChoix":"Number of choices:",
+            "#tauxDavancement":"Rates of progress "
+            
+            
+        },
+        "fr": {     
+            "#nombreTotalDesSujets":"Nombre total des sujets",
+            "#nombreDesSujetsValidé":"Nombre des sujets validé",
+            "#nombretotaldessujets":"Nombre total des sujets",
+            "#tauxDavancementTotal":"Taux d'avancement total",
+            "#niveau":" Niveau", 
+            "#titre":"Titre",
+            "#encadreur":"Encadreur",         
+            "#etat":"Etat ",
+            "#Etudiant":"Etudiant(s)",
+            "#nombreDeChoix":"Nombre de choix :",
+            "#tauxDavancement":"Taux d'Avancement "
+            
+        },
+        "ar": {
+            "#nombreTotalDesSujets":"إجمالي عدد المواضيع",
+            "#nombreDesSujetsValidé":"عدد المواضيع التي تم التحقق من صحتها",
+            "#nombretotaldessujets":"إجمالي عدد المواضيع",
+            "#tauxDavancementTotal":"إجمالي معدل التقدم",
+            "#niveau":" المستوى", 
+            "#titre":"العنوان",
+            "#encadreur":"مشرف",         
+            "#etat":"الحالة",
+            "#Etudiant":"الطلاب",
+            "#nombreDeChoix":"عدد الاختيارات ",
+            "#tauxDavancement":"معدلات التقدم"
+            
+        }
+    }
+}

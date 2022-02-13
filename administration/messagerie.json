@@ -1,0 +1,14 @@
+{
+    "language":{
+       "en":{
+          "#messagerie":"Messaging "
+ 
+       },
+       "fr":{
+         "#messagerie":"Messaging"
+       },
+       "ar":{
+         "#messagerie":"المراسلة"
+       }
+    }
+ }

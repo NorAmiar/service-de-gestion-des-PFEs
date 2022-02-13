@@ -1,0 +1,45 @@
+{
+    "language": {
+        "en": {
+            "#nencadreur ":"Encadreur ",
+            "#ndescreption":"Descreption ",
+            "#keyword":"Keywords ",
+            "#environement":"nvironement",
+            "#bibliographie":" Bibliographie", 
+            "#eThemeNestPasEncoreValidé":"Le theme n'est pas encore validé",
+            "#etudiants":"Etudiant(s) ",         
+            "#eTauxDavancement":"Taux d'avancement  ",
+            "#LeThemeNestEncoreAffecte":"Le theme n'est pas encore affecté",
+            "#nNombreDeFoisChoisi":"ombre de fois choisi"
+            
+            
+            
+        },
+        "fr": {     
+            "#nencadreur ":"Encadreur ",
+            "#ndescreption":"Descreption ",
+            "#keyword":"Keywords ",
+            "#environement":"nvironement",
+            "#bibliographie":" Bibliographie", 
+            "#eThemeNestPasEncoreValidé":"Le theme n'est pas encore validé",
+            "#etudiants":"Etudiant(s) ",         
+            "#eTauxDavancement":"Taux d'avancement  ",
+            "#LeThemeNestEncoreAffecte":"Le theme n'est pas encore affecté",
+            "#nNombreDeFoisChoisi":"ombre de fois choisi"
+            
+        },
+        "ar": {
+            "#nencadreur ":"Encadreur ",
+            "#ndescreption":"Descreption ",
+            "#keyword":"Keywords ",
+            "#environement":"nvironement",
+            "#bibliographie":" Bibliographie", 
+            "#eThemeNestPasEncoreValidé":"Le theme n'est pas encore validé",
+            "#etudiants":"Etudiant(s) ",         
+            "#eTauxDavancement":"Taux d'avancement  ",
+            "#LeThemeNestEncoreAffecte":"Le theme n'est pas encore affecté",
+            "#nNombreDeFoisChoisi":"ombre de fois choisi"
+            
+        }
+    }
+}

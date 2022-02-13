@@ -1,0 +1,64 @@
+{
+    "language": {
+        "en": {
+            "#listeDesRendezVousRV":"Liste Des Rendez-Vous ",
+            "#idRV":"ID",
+            "#dateRV":"Date",
+            "#heureRV":"Heure",
+            "#EtatRV":"Etat",
+            "#actionRV1":"Action",         
+            "#actionRV2":"Action",
+            "#modifierRendezVousRV":"MODIFIER Rendez Vous", 
+            "#heureRV1":"Heure",
+            "#lieuRV":"Lieu",
+            "#modifierRV1":"Modifier",         
+            "#demanderUnRenderVousRV1":"Demander Un Rendez Vous",
+            "#dateRV2":"Date",
+            "#heureRV2":"Heure ",
+            "#lieuRV1":"Lieu",         
+            "#demanderRV":"Demander"
+          
+            
+            
+        },
+        "fr": {     
+            "#listeDesRendezVousRV":"Liste Des Rendez-Vous ",
+            "#idRV":"ID",
+            "#dateRV":"Date",
+            "#heureRV":"Heure",
+            "#EtatRV":"Etat",
+            "#actionRV1":"Action",         
+            "#actionRV2":"Action",
+            "#modifierRendezVousRV":"MODIFIER Rendez Vous",   
+            "#dateRV1":"Date",
+            "#heureRV1":"Heure",
+            "#lieuRV":"Lieu",
+            "#modifierRV1":"Modifier",         
+            "#demanderUnRenderVousRV1":"Demander Un Rendez Vous",
+            "#dateRV2":"Date",
+            "#heureRV2":"Heure ",
+            "#lieuRV1":"Lieu",         
+            "#demanderRV":"Demander"
+        },
+        "ar": {
+            "#listeDesRendezVousRV":"قائمة المواعيد ",
+            "#idRV":"ID",
+            "#dateRV":" التاريخ",
+            "#heureRV":"الساعة",
+            "#EtatRV":" الحالة",
+            "#actionRV1":"عمل",         
+            "#actionRV2":"عمل",
+            "#modifierRendezVousRV":"تعديل الموعد",    
+            "#dateRV1":"التاريخ",
+            "#heureRV1":"الساعة",
+            "#lieuRV":"الموقع",
+            "#modifierRV1":"تعديل",         
+            "#demanderUnRenderVousRV1":"طلب موعد",
+            "#dateRV2":"التاريخ",
+            "#heureRV2":"الساعة",
+            "#lieuRV1":"Lieu",         
+            "#demanderRV":"طلب"
+            
+        }
+    }
+}

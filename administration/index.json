@@ -1,0 +1,52 @@
+{
+    "language": {
+        "en": {
+            "#brand":"ADMINISTRATOR DASHBOARD",
+            "#deco":"Logout",
+            "#gestEtud":"Manage Student's accounts",
+            "#gestEnc":"Manage Supervisor's accounts",
+            "#gestSuj":"Manage Subjects",
+            "#his":"History",
+            "#stat":"Statistics",
+            "#gestMsg":"Messages",
+            "#lang":"LANGUAGE",
+            "#admin":"Administrator",
+            "#dep":"Departement :",
+            "#date":"Date :",
+            "#heure":"Time : ",
+            "#settings":"Settings"
+        },
+        "fr": {
+            "#brand":"ESPACE ADMINISTRATEUR",
+            "#deco":"Déconnexion",
+            "#admin":"Administrateur",
+            "#lang":"LANGUE",
+            "#dep":"Département :",
+            "#date":"Date :",
+            "#heure":"Heure :",
+            "#settings":"Paramètres",
+            "#gestEtud":"Gestion comptes Etudiants",
+            "#gestEnc":"Gestion comptes Encadreur",
+            "#gestSuj":"Gestion des sujets",
+            "#his":"Historique",
+            "#stat":"Statistique",
+            "#gestMsg":"Messagerie"
+        },
+        "ar": {
+            "#brand":"  منطقة المشرف",
+            "#deco":"تسجيل خروج",
+            "#admin":" المدير",
+            "#lang":"اللغة",
+            "#dep":" قسم",
+            "#date":"تاريخ",
+            "#heure":" ساعة",
+            "#settings":" الإعدادات",
+            "#gestEtud":"إدارة حسابات الطلاب",
+            "#gestEnc":"إدارة حسابات المشرفين",
+            "#gestSuj":"إدارة المواضيع",
+            "#his":"التاريخ",
+            "#stat":"إحصائيات",
+            "#gestMsg":"الرسائل"
+        }
+    }
+}

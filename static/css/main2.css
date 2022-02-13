@@ -1,0 +1,74 @@
+body {
+    background-image: url("../images/banner2.jpg") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.navbar {
+    background: #000040 !important;
+    border-radius: 0 !important;
+    border: none !important;
+    color: white !important;
+}
+.navbar a {
+    color: white !important;
+}
+.navbar li a:hover {
+    background-color: #E8DFB4 !important;
+    color: black !important;
+}
+.navbar li a:focus {
+    background-color: #E8DFB4 !important;
+    color: black !important;
+}
+.btn-custom {
+    width: 300px;
+    background: #3C4D61;
+    height : 60px;
+    border-radius: 100px !important;
+    padding: 20px 60px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.45em;
+    margin: 0 15px;
+}
+.btn-custom:hover { 
+    background-color: #E8DFB4;
+    color: black !important;
+    -webkit-animation: hover 1200ms linear 2 alternate;
+    animation: hover 1200ms linear 2 alternate;
+  }
+  #login {
+      background-color: #f6f7f8;
+      width: 100%;
+      padding: 10% 3% 10% 3%;
+      vertical-align: middle;
+      margin-top : 10% 
+      
+  }
+  #register {
+    background-color: #f6f7f8;
+    width: 100%;
+    padding: 10% 3% 10% 3%;
+    vertical-align: middle; 
+  }
+  .form-control {
+      height:50px !important;
+      width: 80% !important;
+  }
+  .show {
+      align-items: center;
+      justify-content: center;
+    display:flex;
+    height: 100%;
+    display:none;
+  }
+  .navbar-nav .open .dropdown-menu {
+    background-color:#000040;
+  }

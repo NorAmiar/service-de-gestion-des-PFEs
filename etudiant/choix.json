@@ -1,0 +1,32 @@
+{
+    "language": {
+        "en": {
+            "#listeDesChoix":"List Of Choices",
+            "#idC":"ID",
+            "#sujetC":"Subject",
+            "#dateDeChoixC":"Choice Date",
+            "#reponseC":"Answer",
+            "#actionC":"Action"    
+            
+            
+            
+        },
+        "fr": {     
+            "#listeDesChoix":"Liste Des Choix ",
+            "#idC":"ID",
+            "#sujetC":"Sujet",
+            "#dateDeChoixC":"Date De Choix",
+            "#reponseC":"Reponse",
+            "#actionC":"Action"
+        },
+        "ar": {
+            "#listeDesChoix":"قائمة الاختيار ",
+            "#idC":"ID",
+            "#sujetC":" الموضوع",
+            "#dateDeChoixC":"تاريخ الاختيار",
+            "#reponseC":"إجابة",
+            "#actionC":"عمل"    
+            
+        }
+    }
+}

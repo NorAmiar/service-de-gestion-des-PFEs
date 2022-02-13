@@ -1,0 +1,44 @@
+{
+    "language": {
+        "En": {
+            "#encadreur":"Encadreur",     
+            "#descreption":"Descreption",
+            "#keywords":"Keywords",
+             "#environement":"Environement",      
+            "#bibliographie":"bibliography",
+            "#LeThemeNestPasencoreValidé":"The theme is not yet validated",
+            "#etudiant":"Student (s)", 
+            "#TauxDavancement":"Taux d'avancement",     
+            "#LeThemeNestPasEncoreAffecte":"The theme is not yet affected",
+            "#NombreDeFoisChoisi":"Number of times chosen"
+   
+        },
+        "fr": {     
+           "#encadreur":"Encadreur",     
+            "#descreption":"Descreption",
+            "#keywords":"Keywords",
+             "#environement":"Environement",      
+            "#bibliographie":"Bibliographie",
+            "#LeThemeNestPasencoreValidé":"Le theme n'est pas encore validé",
+            "#etudiant":"Etudiant(s)", 
+            "#TauxDavancement":"Taux d'avancement",     
+            "#LeThemeNestPasEncoreAffecte":"Le theme n'est pas encore affecté",
+            "#NombreDeFoisChoisi":"Nombre de fois choisi"
+           
+           
+            
+        },
+        "ar": {
+            "#descreption":"الوصف",
+            "#keywords":"الكلمات الدالة",
+             "#environement":"البيئة",      
+            "#bibliographie":"فهرس",
+            "#LeThemeNestPasencoreValidé":"لم يتم التحقق من صحة الموضوع بعد",
+            "#etudiant":"الطلاب", 
+            "#TauxDavancement":"معدلات التقدم",     
+            "#LeThemeNestPasEncoreAffecte":"الموضوع لم يتأثر بعد",
+            "#NombreDeFoisChoisi":"عدد المرات المختارة"
+           
+        }
+    }
+}

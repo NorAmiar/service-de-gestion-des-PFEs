@@ -1,0 +1,27 @@
+{
+    "language": {
+        "en": {
+            "#contacterLadministrateurCN":"Contact the administrator",   
+            "#objetCN":"Object",
+            "#messageCN":"Message",
+             "#envoyerCN":"send"    
+          
+            
+        },
+        "fr": {     
+           "#contacterLadministrateurCN":"Contacter l'adminstrateur",   
+            "#objetCN":"Objet",
+            "#messageCN":"Message",
+             "#envoyerCN":"Envoyer"
+           
+            
+        },
+        "ar": {
+           "#contacterLadministrateurCN":"اتصال بالمسؤول",   
+            "#objetCN":"الموضوع",
+            "#messageCN":"رسالة",
+             "#envoyerCN":"ارسال"
+           
+        }
+    }
+}

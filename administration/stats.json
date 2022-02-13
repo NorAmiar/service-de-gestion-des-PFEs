@@ -1,0 +1,27 @@
+{
+    "language": {
+        "en": {
+            "#statistiques":"Statistics",
+            "#sujets":"Topics",
+            "#encadreurs":"Supervisors",
+            "#comptes":"Accounts"
+           
+           
+            
+        },
+        "fr": {     
+            "#statistiques":"Statistiques",
+            "#sujets":"Sujets",
+            "#encadreurs":"Encadreurs",
+            "#comptes":"Comptes"
+            
+        },
+        "ar": {
+            "#statistiques":"الإحصاء",
+            "#sujets":"المواضيع",
+            "#encadreurs":"مشرف",
+            "#comptes":"الحسابات"
+            
+        }
+    }
+}

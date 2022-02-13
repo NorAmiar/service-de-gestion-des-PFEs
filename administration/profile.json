@@ -1,0 +1,54 @@
+{
+    "language": {
+        "en": {
+            "#MoyenneDeCompte":"Moyenne de Compte ",
+            "#TypeDeCompte":"Type de compte",
+            "#Niveau":"Niveau",
+            "#Sujet":"Sujet",
+            "#EnvoyerUnMessage":" Envoyer un message ",
+            "#InformationSurLesEtudiants":"Information sur les etudiants",
+            "#nom":"Nom",         
+            "#prenom":"Prénom ",
+            "#email":"Email",
+            "#moyenne":"Moyenne ",
+            "#objet1":"Objet",
+            "#message":"Message",
+            "#envoyez":"Envoyez"
+            
+            
+        },
+        "fr": {     
+            "#MoyenneDeCompte":"Moyenne de Compte ",
+            "#TypeDeCompte":"Type de compte",
+            "#Niveau":"Niveau",
+            "#Sujet":"Sujet",
+            "#EnvoyerUnMessage":" Envoyer un message ",
+            "#InformationSurLesEtudiants":"Information sur les etudiants",
+            "#nom":"Nom",         
+            "#prenom":"Prénom ",
+            "#email":"Email",
+            "#moyenne":"Moyenne ",
+            "#objet1":"Objet",
+            "#message":"Message",
+            "#envoyez":"Envoyez"                 
+            
+            
+        },
+        "ar": {
+            "#MoyenneDeCompte":"Moyenne de Compte ",
+            "#TypeDeCompte":"Type de compte",
+            "#Niveau":"Niveau",
+            "#Sujet":"Sujet",
+            "#EnvoyerUnMessage":" Envoyer un message ",
+            "#InformationSurLesEtudiants":"Information sur les etudiants",
+            "#nom":"Nom",         
+            "#prenom":"Prénom ",
+            "#email":"Email",
+            "#moyenne":"Moyenne ",
+            "#objet1":"Objet",
+            "#message":"Message",
+            "#envoyez":"Envoyez"
+            
+        }
+    }
+}

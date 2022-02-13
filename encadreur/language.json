@@ -1,0 +1,55 @@
+{
+  "config": {
+    "default": "en"
+  },
+  "language": {
+    "en": {
+      "#head_title": "PFEs Management",
+      "#form-h" : "Login",
+      "#user" : "Username",
+      "#pass" : "Password",
+      "#send" : "Login",
+      "#inscrp" : "Register",
+      "#modal_title" : "PFEs Management System",
+      "#modal_content" :"The system allows, on the one hand, the administration to properly manage and control student projects from the proposal of the subjects by the teachers to the defenses through the assignment, selection, follow-up, etc. And on the other hand, it allows students to consult the old projects, to select the new proposed subjects, to communicate with the teachers and the administration, to point out the gaps, to deposit reports, etc.",
+      "#dev_team_title": "Developement team:",
+      "#modal_footer" : "© 2019 University May 8, 1945, Department of Computer Science.",
+      "#footer_title_1":"University Of Gulma 8 mai 1945",
+      "#footer_content_1":"This Website is developed by students of Computer Science Departement - University Of Guelma 8 mai 1945 ",
+      "#footer_title_2" : "Contact Us",
+      "#footer_content_2" : "University May 8, 1945 - GUELMA BP 401 GUELMA 24000 - ALGERIA <br> Tel: 213 (0) 37 10 05 53 <br> Fax: 213 (0) 37 10 05 55"
+    },
+    "fr": {
+      "#head_title": "Gestion des PFEs",
+      "#form-h" : "Connectez-vous",
+      "#user" : "Pseudo",
+      "#pass" : "Mot de passe",
+      "#send" : "Connexion",
+      "#inscrp" : "Inscription",
+      "#modal_title" : "Systéme de gestion des projets fin d'etude",
+      "#modal_content" :"Le systéme permet, d'une part, à l'administration de bien gérer et de bien contrôler les projets des étudiants dés la proposition des sujets par les enseignants jusqu’au les soutenances en passant par l'étape d'affectation, de sélection, de suivi, etc. Et d'une autre part, il permet aux étudiants de consulter les anciens projets, de sélectionner les nouveaux sujets proposés, de communiquer avec les enseignants et l'administration, de signaler les lacunes, de dépôt des rapports, etc.",
+      "#dev_team_title": "L'équipe de développement:",
+      "#modal_footer" : "© 2019 Université 8  mai 1945,Département d’informatique.",
+      "#footer_title_1":"Université 8 mai 1945",
+      "#footer_content_1":"Ce website est developpé par des étudiants de departement d'informatique - université 8 mai 1945 Guelma ",
+      "#footer_title_2" : "Contactez Nous",
+      "#footer_content_2" : "Université 8 mai 1945 - GUELMA BP 401 GUELMA 24000 - ALGERIE <br> Tél: 213 (0) 37 10 05 53 <br> Fax: 213 (0) 37 10 05 55"
+    },
+    "ar": {
+      "#head_title": "ادارة مشاريع التخرج",
+      "#form-h" : "تسجيل الدخول",
+      "#user" : "اسم المستخدم",
+      "#pass" : "كلمة المرور",
+      "#send" : "دخول",
+      "#inscrp" : "انشاء حساب",
+      "#modal_title" : "نظام ادارة مشاريع التخرج",
+      "#modal_content" :" يسمح النظام ، من ناحية ، للإدارة بإدارة مشاريع الطلاب والتحكم فيها بشكل صحيح من الاقتراح المواد التي يقوم بها المعلمون حتى الدفاع ، ويمر خلال المهمة ، والاختيار ، ومرحلة المتابعة ، إلخ.  ومن ناحية أخرى ، يسمح للطلاب باستشارة المشروعات القديمة ، واختيار الموضوعات الجديدة المقترحة ، التواصل مع المعلمين والإدارة ، تقرير الثغرات ، تقارير الملفات ، إلخ.",
+      "#dev_team_title": ":فريق التطوير ",
+      "#modal_footer" : "© 2019  جامعة 8 ماي 1945 قسم الاعلام الالي .",
+      "#footer_title_1":"جامعة 8 ماي 1945",
+      "#footer_content_1":"هدا الموقع من تطوير طلبة قسم الاعلام الالي لجامعة 8 ماي 1945 ",
+      "#footer_title_2" : "اتصل بنا",
+      "#footer_content_2" : "الجامعة 8 مايو 1945 - GUELMA BP 401 GUELMA 24000 - الجزائر <br> هاتف: 213 (0) 37 10 05 53 <br> فاكس: 213 (0) 37 10 05 55"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "language": {
+        "en": {
+            "#bienvenueDansVotreEspaceE":"Welcome to your space ",
+            "#moyenneDe":"Average of ",
+            "#themesAvecMotClé":"Themes With keyword ",
+            "#themesAvecMotCléE":"Themes With keyword ",
+            "#notifications":"Notifications"
+            
+        },
+        "fr": {     
+             "#bienvenueDansVotreEspaceE":"Bienvenue Dans Votre Espace ",
+            "#moyenneDe":"Moyenne de ",
+            "#themesAvecMotClé":"Themes Avec mot clé ",
+            "#themesAvecMotCléE":"Themes Avec mot clé ",
+            "#notifications":"Notifications"
+        },
+        "ar": {
+             "#bienvenueDansVotreEspaceE":"مرحبًا بك في مساحتك ",
+            "#moyenneDe":" المعدل الخاص ب",
+            "#themesAvecMotClé":" المواضيع مع الكلمات المفتاحية ",
+            "#themesAvecMotCléE":" المواضيع مع الكلمات المفتاحية ",
+            "#notifications":"الإشعارات "
+            
+        }
+    }
+}

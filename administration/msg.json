@@ -1,0 +1,39 @@
+{
+    "language": {
+        "en": {
+            "#DetailDeMessage":"Détail de message",
+            "#Expiditeur":"Expiditeur",
+            "#role":"Role",
+            "#recepteur":"Recepteur",
+            "#role1":" Role ",
+            "#date":"Date",
+            "#objet":"Objet",         
+            "#contenu":"Contenu",
+            "#etat":"Etat"
+            
+        },
+        "fr": {     
+             "#DetailDeMessage":"Détail de message",
+            "#Expiditeur":"Expiditeur",
+            "#role":"Role",
+            "#recepteur":"Recepteur",
+            "#role1":" Role ",
+            "#date":"Date",
+            "#objet":"Objet",         
+            "#contenu":"Contenu",
+            "#etat":"Etat"
+            
+        },
+        "ar": {
+            "#DetailDeMessage":"Détail de message",
+            "#Expiditeur":"Expiditeur",
+            "#role":"Role",
+            "#recepteur":"Recepteur",
+            "#role1":" Role ",
+            "#date":"Date",
+            "#objet":"Objet",         
+            "#contenu":"Contenu",
+            "#etat":"Etat"
+        }
+    }
+}

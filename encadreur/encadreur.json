@@ -1,0 +1,96 @@
+{
+    "language": {
+        "En": {
+            "#nomENC":"name",   
+            "#prenomENC":"surname",
+            "#emailENC":"E-mail",
+             "#numeroENC":"Number",      
+            "#gradeENC":"Grade",
+            "#domainesENC":"Areas",
+            "#envoyerUnMessageENC":"Send a message",     
+            "#envoyerUnMessageENC1":" Send a message",
+            "#objetENC":"Object",
+            "#messageENC":"Message",
+            "#envoyerENC":"Send",
+            "#modifierMonProfileENC":"Edit My Profile",
+            "#idENC":"id",
+            "#matriculeENC":"Registration number",     
+            "#nomENC1":"name",
+            "#prenomENC1":"surname",
+            "#pseudoENC":"Pseudo",
+            "#motDePasseENC":"Password",     
+            "#emailENC1":"E-mail",
+            "#numérooENC1":"Number",
+            "#gradeENC1":"Grade",     
+            "#maitreDeConferenceClasseAENC":"Class A lecturer",
+            "#maitreDeConferenceClasseBENC":"Class B lecturer",
+            "#domainesDeRecherchesENC":"Research areas",
+             "#modifierENC":"Edit"
+            
+         
+             
+           
+                            
+          
+            
+            
+        },
+        "fr": {     
+               "#nomENC":"Nom",   
+            "#prenomENC":"Prénom",
+            "#emailENC":"Email",
+             "#numeroENC":"Numéro",      
+            "#gradeENC":"Grade",
+            "#domainesENC":"Domaines",
+            "#envoyerUnMessageENC":"Envoyer un message",     
+            "#envoyerUnMessageENC1":" Envoyer Un Message",
+            "#objetENC":"Objet",
+            "#messageENC":"Message",     
+            "#envoyerENC":"Envoyez",
+            "#modifierMonProfileENC":"Modifier Mon Profile",
+            "#idENC":"id",
+             "#matriculeENC":"Matricule",     
+            "#nomENC1":"Nom",
+            "#prenomENC1":"Prenom",
+            "#pseudoENC":"Pseudo",
+            "#motDePasseENC":"Mot de passe",     
+            "#emailENC1":"Email",
+            "#numérooENC1":"Numéro",
+            "#gradeENC1":"Grade",     
+            "#maitreDeConferenceClasseAENC":"Maitre de conference classe A",
+            "#maitreDeConferenceClasseBENC":"Maitre de conference classe B",
+            "#domainesDeRecherchesENC":"Domaines de recherches",
+             "#modifierENC":"Modifier"
+           
+            
+        },
+        "ar": {
+              "#nomENC":"اللقب ",   
+            "#prenomENC":"الاسم",
+            "#emailENC":"البريد الإلكتروني",
+             "#numeroENC":"الرقم ",      
+            "#gradeENC":"الدرجة ",
+            "#domainesENC":"النطاقات ",
+            "#envoyerUnMessageENC":"بعث رسالة",     
+            "#envoyerUnMessageENC1":" بعث رسالة",
+            "#objetENC":"Objet",
+            "#messageENC":"رسالة",     
+            "#envoyerENC":"إرسال",
+            "#modifierMonProfileENC":"تعديل ملفي الشخصي",
+            "#idENC":"id",
+             "#matriculeENC":"رقم التسجيل",     
+            "#nomENC1":"اللقب",
+            "#prenomENC1":"الاسم",
+            "#pseudoENC":"اسم مستعار",
+            "#motDePasseENC":"كلمة السر",     
+            "#emailENC1":"البريد الإلكتروني",
+            "#numérooENC1":"الرقم",
+            "#gradeENC1":" الدرجة",     
+            "#maitreDeConferenceClasseAENC":"محاضر من الدرجة الأولى",
+            "#maitreDeConferenceClasseBENC":"محاضر فئة ب",
+            "#domainesDeRecherchesENC":"نطاقات البحث",
+             "#modifierENC":"تعديل"
+           
+        }
+    }
+}

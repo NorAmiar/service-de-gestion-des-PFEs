@@ -1,0 +1,84 @@
+{
+    "language": {
+        "en": {
+            "#listeDesRendezVousRD":"List Of Appointments",   
+            "#demanderUnRdvRD":"Request an appointment",
+            "#idRD":"ID",
+             "#etudiantRD":"Student (s)",     
+            "#dateRD":"Dated",
+            "#heureRD":"Hour",
+            "#lieuRD":"Location",     
+            "#etatRD":"State",
+            "#actionRD1":"Action",
+            "#actionRD2":"Action",     
+            "#actionRD3":"Action",
+            "#modifierRendezVousRD":"MODIFY Appointment",
+            "#idRD1":"id ",
+            "#dateRD1":"Dated",     
+            "#heureRD1":"Hour",
+            "#lieuRD1":"Location",
+            "#modifierRD1":"Edit",     
+            "#demanderUnRendezVousRD":"Request an appointment",
+            "#recepteurRD":"Receiver",
+            "#dateRD2":"Dated",
+             "#heureRD2":"Hour",
+              "#lieuRD2":"Location",
+              "#demanderRD":"Request"
+         
+            
+        },
+        "fr": {     
+            "#listeDesRendezVousRD":"Liste Des Rendez Vous",   
+            "#demanderUnRdvRD":"Demander un Rendez Vous",
+            "#idRD":"ID",
+             "#etudiantRD":"Etudiant(s)",     
+            "#dateRD":"Date",
+            "#heureRD":"Heure",
+            "#lieuRD":"Lieu",     
+            "#etatRD":" Etat",
+            "#actionRD1":"Action",
+            "#actionRD2":"Action",     
+            "#actionRD3":"Action",
+            "#modifierRendezVousRD":"MODIFIER Rendez Vous",
+            "#idRD1":"id ",
+            "#dateRD1":"Date",     
+            "#heureRD1":"Heure",
+            "#lieuRD1":"Lieu",
+            "#modifierRD1":"Modifier",     
+            "#demanderUnRendezVousRD":"Demander Un Rendez Vous",
+            "#recepteurRD":"Recepteur",
+            "#dateRD2":"Date",
+             "#heureRD2":"Heure",
+              "#lieuRD2":"Lieu",
+              "#demanderRD":"Demander"
+           
+            
+        },
+        "ar": {
+             "#listeDesRendezVousRD":"قائمة المواعيد",   
+            "#demanderUnRdvRD":"طلب موعد",
+            "#idRD":"ID",
+             "#etudiantRD":"الطلاب",     
+            "#dateRD":"التاريخ ",
+            "#heureRD":" الساعة ",
+            "#lieuRD":"الموقع",     
+            "#etatRD":" الحالة",
+            "#actionRD1":"عمل",
+            "#actionRD2":"عمل",     
+            "#actionRD3":"عمل",
+            "#modifierRendezVousRD":"تعديل الموعد",
+            "#idRD1":"id ",
+            "#dateRD1":"التاريخ ",     
+            "#heureRD1":" الساعة ",
+            "#lieuRD1":"الموقع",
+            "#modifierRD1":"تعديل",     
+            "#demanderUnRendezVousRD":"طلب موعد",
+            "#recepteurRD":"المتلقي",
+            "#dateRD2":"التاريخ ",
+             "#heureRD2":" الساعة ",
+              "#lieuRD2":"الموقع",
+              "#demanderRD":"طلب"
+           
+        }
+    }
+}

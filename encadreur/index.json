@@ -1,0 +1,22 @@
+{
+    "language": {
+        "en": {
+            "#encadreur":"Supervisor",   
+            "#dep":"Departement :",
+            "#date":"Date :",
+            "#heure":"Time :"
+        },
+        "fr": {
+            "#encadreur":"encadreur",      
+            "#dep":"Departement :",
+            "#date":"Date :",
+            "#heure":"Heure :"
+        },
+        "ar": {
+            "#encadreur":"  منطقة المشرف",      
+            "#dep":"Departement",
+            "#date":"Date",
+            "#heure":"Heure"
+        }
+    }
+}

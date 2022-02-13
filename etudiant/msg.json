@@ -1,0 +1,46 @@
+{
+    "language": {
+        "en": {
+            "#DetailDeMessage":"Détail de message",
+            "#Expiditeur":"Expiditeur",
+            "#role":"Role",
+            "#recepteur":"Recepteur",
+            "#role1":"Role",
+            "#date":"Date",
+            "#objet":"Objet",
+            "#contenu":"Contenu",         
+            "#etat":"Etat",
+            "#DateDeVue":"Date de vue"
+         
+           
+            
+            
+        },
+        "fr": {  
+             "#messegerieM":"Messagerie",   
+             "#DetailDeMessage":"Détail de message",
+             "#Expiditeur":"Expiditeur",
+             "#role":"Role",
+             "#recepteur":"Recepteur",
+             "#role1":"Role",
+             "#date":"Date",
+             "#objet":"Objet",
+             "#contenu":"Contenu",         
+             "#etat":"Etat",
+             "#DateDeVue":"Date de vue"
+        },
+        "ar": {
+            "#DetailDeMessage":"تفاصيل الرسالة",
+            "#Expiditeur":"المرسل",
+            "#role":"الدور",
+            "#recepteur":"المستقبل",
+            "#role1":"الدور",
+            "#date":"التاريخ",
+            "#objet":"الموضوع",
+            "#contenu":"المحتوى",         
+            "#etat":"حالة",
+            "#DateDeVue":"تاريخ العرض"
+            
+        }
+    }
+}
